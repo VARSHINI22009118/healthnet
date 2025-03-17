@@ -1,28 +1,29 @@
 # Root .gitignore
-node_modules
+node_modules/
 .env
 
 # Hardhat files
-/cache
-/artifacts
+/cache/
+/artifacts/
 
 # TypeChain files
-/typechain
-/typechain-types
+/typechain/
+/typechain-types/
 
 # solidity-coverage files
-/coverage
+/coverage/
 /coverage.json
 
 # Hardhat Ignition default folder for deployments against a local node
-ignition/deployments/chain-31337
+/ignition/deployments/chain-31337/
 
 # Client .gitignore
-/client/node_modules
+/client/node_modules/
+/client/backend/node_modules/
 /client/.pnp
 /client/.pnp.js
-/client/coverage
-/client/build
+/client/coverage/
+/client/build/
 /client/.DS_Store
 /client/.env.local
 /client/.env.development.local
