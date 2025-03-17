@@ -115,6 +115,21 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 5. Open a pull request.  
 
 ---
+# 📸 Visual Walkthrough: Exploring Healthnet in Action
+![image](https://github.com/user-attachments/assets/d3301232-496b-4650-81ac-456d531b3d96)
+
+![image](https://github.com/user-attachments/assets/89b678a8-47dd-4d0a-b5b0-03949d76b03c)
+
+![image](https://github.com/user-attachments/assets/3dc6cf8f-747a-44f1-b956-72eeccad4c96)
+
+![image](https://github.com/user-attachments/assets/fe9cf6e1-4642-4b01-bc35-fb701c8fb9d6)
+
+![image](https://github.com/user-attachments/assets/51ede0f6-b68c-4208-8f6e-4c90f110caed)
+
+![image](https://github.com/user-attachments/assets/916097da-f918-407d-95af-e41922255004)
+
+![image](https://github.com/user-attachments/assets/f5f44d5d-8f33-4f75-b5d8-0b8e788b62b4)
+
 
 ## 📞 Contact
 - **GitHub**: [GitPreethiHub](https://github.com/GitPreethiHub)  
