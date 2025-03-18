@@ -44,7 +44,7 @@ Healthnet revolutionizes the way medical records are managed by leveraging **blo
 
 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/GitPreethiHub/Healthnet.git
+git clone https://github.com/GitPreethiHub/healthnet.git
 cd Healthnet
 ```
 
