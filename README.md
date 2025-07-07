@@ -1,6 +1,6 @@
 
 ---
-# Healthnet - A Decentralized Medical Records Management System
+# Healthnet - A Decentralized Medical Records Management Systems
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cf0ec1ee-5e4d-4318-a12a-034d5f38a80e" alt="Healthnet Banner" />
   <br />
