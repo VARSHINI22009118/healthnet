@@ -131,9 +131,6 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 ![image](https://github.com/user-attachments/assets/f5f44d5d-8f33-4f75-b5d8-0b8e788b62b4)
 
 
-## 📞 Contact
-- **GitHub**: [GitPreethiHub](https://github.com/GitPreethiHub)  
-- **Email**: [kaialexis0613@gmail.com]  
 
 ---
 
